@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AuthenticationStaticTestParam" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-07-14T03:25:55" hostname="DESKTOP-76SE77B" time="3.504">
+  <properties/>
+  <testcase name="[1] admin, admin, CRUD, user authenticated successfully with permission: [CRUD]" classname="AuthenticationStaticTestParam" time="3.075"/>
+  <testcase name="[2] admin1, admin1, CRU, user authenticated successfully with permission: [CRU]" classname="AuthenticationStaticTestParam" time="0.015"/>
+  <testcase name="[3] admin2, admin2, CRD, user authenticated successfully with permission: [CRD]" classname="AuthenticationStaticTestParam" time="0.011"/>
+  <testcase name="[4] admin3, admin3, CUD, user authenticated successfully with permission: [CUD]" classname="AuthenticationStaticTestParam" time="0.019"/>
+  <testcase name="[5] admin4, admin4, RUD, user authenticated successfully with permission: [RUD]" classname="AuthenticationStaticTestParam" time="0.061"/>
+  <testcase name="[6] admin5, admin5, CR, user authenticated successfully with permission: [CR]" classname="AuthenticationStaticTestParam" time="0.023"/>
+  <testcase name="[7] admin6, admin6, CU, user authenticated successfully with permission: [CU]" classname="AuthenticationStaticTestParam" time="0.018"/>
+  <testcase name="[8] admin7, admin7, CD, user authenticated successfully with permission: [CD]" classname="AuthenticationStaticTestParam" time="0.024"/>
+  <testcase name="[9] admin8, admin8, RU, user authenticated successfully with permission: [RU]" classname="AuthenticationStaticTestParam" time="0.008"/>
+  <testcase name="[10] admin9, admin9, RD, user authenticated successfully with permission: [RD]" classname="AuthenticationStaticTestParam" time="0.01"/>
+  <testcase name="[11] admin10, admin10, UD, user authenticated successfully with permission: [UD]" classname="AuthenticationStaticTestParam" time="0.01"/>
+  <testcase name="[12] admin11, admin11, C, user authenticated successfully with permission: [C]" classname="AuthenticationStaticTestParam" time="0.009"/>
+  <testcase name="[13] admin12, admin12, R, user authenticated successfully with permission: [R]" classname="AuthenticationStaticTestParam" time="0.018"/>
+  <testcase name="[14] admin13, admin13, U, user authenticated successfully with permission: [U]" classname="AuthenticationStaticTestParam" time="0.033"/>
+  <testcase name="[15] admin14, admin14, D, user authenticated successfully with permission: [D]" classname="AuthenticationStaticTestParam" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
